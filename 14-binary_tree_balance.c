@@ -1,0 +1,8 @@
+/* 14-binary_tree_balance.c */
+#include "binary_trees.h"
+
+int binary_tree_balance(const binary_tree_t *tree)
+{
+	(void)tree;
+	return (0);
+}
